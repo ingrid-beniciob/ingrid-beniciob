@@ -1,4 +1,4 @@
-#Oi! Eu sou a **Ingrid (Ing)** 👋🏻🌸
+##Oi! Eu sou a **Ingrid (Ing)** 👋🏻🌸
 
 Aqui você vai encontrar um pouquinho da minha trajetória no mundo da **tecnologia**, meus projetinhos, estudos, certificações e tudo o que faz meus olhos brilharem ✨
 
@@ -13,13 +13,12 @@ Aqui você vai encontrar um pouquinho da minha trajetória no mundo da **tecnolo
 ---
 
 ## 💌 Onde me encontrar
-- Instagram: *adicione aqui*  
--  LinkedIn: *adicione aqui*  
--  Contato: *adicione aqui*  
+- Instagram: @ps.ingh
+- LinkedIn: https://www.linkedin.com/in/ingrid-benicio-bastos/
+- Contato: 11 950840447
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingrid-beniciob)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Mensagem final
 Obrigada por passar por aqui! Sempre que quiser acompanhar meus estudos ou evolução, este espaço vai estar sendo atualizado com muito carinho 💕  
