@@ -8,7 +8,7 @@ Aqui você vai encontrar um pouquinho da minha trajetória no mundo da **tecnolo
 - Técnica em Informática pelo Senac
 - Apaixonada por programação e inovação 
 - Explorando a área tech e tentando me encontrar
-- Iniciando a graducação em Ciência da Computação
+- Iniciando a graduação em Ciência da Computação
 
 ---
 
