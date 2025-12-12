@@ -1,12 +1,12 @@
-##Oi! Eu sou a **Ingrid (Ing)** 👋🏻🌸
+## Oi! Eu sou a **Ingrid** 👋🏻🌸
 
-Aqui você vai encontrar um pouquinho da minha trajetória no mundo da **tecnologia**, meus projetinhos, estudos, certificações e tudo o que faz meus olhos brilharem ✨
+Aqui você vai encontrar um pouquinho da minha trajetória no mundo da **tecnologia**, meus projetinhos, estudos e tudo o que faz meus olhos brilharem ✨
 
 ---
 
 ## 🌷 Sobre mim
-- Técnica em Informática 
-- Apaixonada por programação, inovação e interfaces bonitas
+- Técnica em Informática pelo Senac
+- Apaixonada por programação e inovação 
 - Explorando a área tech e tentando me encontrar
 - Iniciando a graducação em Ciência da Computação
 
@@ -20,7 +20,3 @@ Aqui você vai encontrar um pouquinho da minha trajetória no mundo da **tecnolo
 ---
 
 
-## 🌟 Mensagem final
-Obrigada por passar por aqui! Sempre que quiser acompanhar meus estudos ou evolução, este espaço vai estar sendo atualizado com muito carinho 💕  
-
-> *"Nada floresce sem cuidado — e eu tô aqui regando meus sonhos todos os dias."* 🌷✨
